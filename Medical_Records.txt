@@ -1,0 +1,7 @@
+PatientID, Date,Diagnosis,Prescription,TreatmentPlan,Followups
+P001, 2-2-2025,High Blood Pressure Medication,Lifestyle changes including low-sodium diet and exercise,Monitor blood pressure regularly,After 1 month
+P002, 3-2-2025,Type 2 Diabetes,Metformin 500mg,Lifestyle changes including low-sugar diet and regular exercise,Check HbA1c levels in 3 months,After 3 months  
+P003, 4-2-2025,Migraine,Sumatriptan 50mg,Stress management techniques and hydration,Maintain a headache diary,After 2 weeks  
+P004, 5-2-2025,Asthma,Salmeterol Inhaler,Avoid allergens and use a peak flow meter,Assess asthma control,After 1 month  
+P005, 6-2-2025,Hyperlipidemia,Atorvastatin 10mg,Adopt a heart-healthy diet and increase physical activity,Monitor cholesterol levels,After 3 months  
+P006, 7-2-2025,Iron Deficiency Anemia,Iron supplements 325mg,Increase intake of iron-rich foods,Monitor hemoglobin levels,After 1 month

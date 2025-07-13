@@ -1,0 +1,6 @@
+PatientID,Name,Age,Gender,Contact,Address,Condition,DoctorID,Insurance, Discharge
+P001,Ahmad Bin Ali,40,M,0123456789,123 Jalan Bukit - Kuala Lumpur,Hypertension,D002,covered,Yes
+P002,Siti Nur Aishah,30,F,0198765432,45 Jalan Merdeka - Penang,Asthma,D004,not covered,No
+P003,Lee Wei Jie,25,M,0177654321,78 Jalan Permai - Johor Bahru,Diabetes,D005,covered,No
+P004,Nurul Huda Binti Rahman,35,F,0112345678,12 Jalan Seri - Melaka,Anemia,D003,covered,No
+P005,Amirul Hafiz,28,M,0131234567,101 Jalan Cempaka - Ipoh,Back Pain,D001,covered,No

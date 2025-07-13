@@ -1,0 +1,10 @@
+P001,X-Ray,50.0
+P002,Blood Test,30.0
+P003,Consultation,80.0
+P004,Ultrasound,100.0
+P005,Physical Therapy,60.0
+P001,Consultation,120.0
+P002,X-ray,70.0
+P003,Blood Test,50.0
+P004,Consultation,150.0
+P005,Consultation,110.0

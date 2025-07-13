@@ -1,0 +1,6 @@
+PatientID,Observation,Vitals,Date,Time
+P001,Patient shows improved breathing pattern,Heart Rate: 70 bpm - Blood Pressure: 118/76,15/01/2025, 10:00 AM
+P002,Patient has a fever of 101°F,Heart Rate: 80 bpm - Blood Pressure: 130/85,15/01/2025, 10:30 AM
+P001,Patient is experiencing mild discomfort in the abdomen,Heart Rate: 75 bpm - Blood Pressure: 125/80,15/01/2025,12:00 PM
+P003,Patient's wound is healing well with no signs of infection,Heart Rate: 70 bpm - Blood Pressure: 130/85,15/01/2025, 2:00 PM
+P002,Patient reported headache and fatigue,15/01/2025,Heart Rate: 75 bpm - Blood Pressure: 125/80,15/01/2025, 2:30 PM

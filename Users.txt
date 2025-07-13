@@ -1,0 +1,19 @@
+UserID,Name,Role,Contact
+A001,John Smith,Admin,1234567890
+D001,Susan Clark,Doctor,2345678901
+D002,John Smith,Doctor,1122334455
+D003,Robert Darris,Doctor,1222334555
+D004,Linda Johnson,Doctor,1123334445
+N001,Michael Brown,Nurse,3456789012
+R001,Linda Johnson,Receptionist,4567890123
+
+
+
+
+
+
+
+
+
+
+

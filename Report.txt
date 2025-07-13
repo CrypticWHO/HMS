@@ -1,0 +1,10 @@
+True
+..................Hospital Report.............
+Total patients = 5
+Total doctors = 4
+Total nurses = 1
+Total Beds: 53
+Occupied Beds: 39
+Available Beds: 14
+Xray Machines = 3
+Ultrasound Machines = 2
